@@ -1,4 +1,4 @@
 # My Interactive Document:
 
-```cs --source-file ./Program.cs --project ./testtry.csproj
+```cs --source-file ./code/Program.cs --project ./code/testtry.csproj
 ```
